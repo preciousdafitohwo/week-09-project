@@ -1,4 +1,4 @@
-Live link to project - 
+Live link to project - https://week-09-project.vercel.app/
 
 User Stories
 🐿️ As a user, I am able to sign up for an account and create a user profile
